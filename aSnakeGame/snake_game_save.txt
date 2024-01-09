@@ -1,0 +1,5 @@
+snake_length:3
+snake_position:50,70
+snake_position:40,70
+snake_position:30,70
+apple_position:100,50
